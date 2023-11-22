@@ -168,8 +168,8 @@
     <schema id="161" parent="2" name="INFORMATION_SCHEMA"/>
     <schema id="162" parent="2" name="PUBLIC">
       <Current>1</Current>
-      <IntrospectionTimestamp>2023-11-15.11:48:07.203</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2023-11-15.02:48:07</LocalIntrospectionTimestamp>
+      <IntrospectionTimestamp>2023-11-22.12:16:01.539</IntrospectionTimestamp>
+      <LocalIntrospectionTimestamp>2023-11-22.03:16:01</LocalIntrospectionTimestamp>
     </schema>
     <user id="163" parent="2" name="B2222440">
       <Admin>1</Admin>
