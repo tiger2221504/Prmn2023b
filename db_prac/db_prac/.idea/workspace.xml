@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4591a2db-3cfa-4bb4-829b-46c6dd57286f" name="変更" comment="Insertクラスを作成した">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../prmn2023b/src/main/java/jp/ac/chitose/db_prac/PreExamDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../prmn2023b/src/main/java/jp/ac/chitose/db_prac/PreExamDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,8 @@
       <workItem from="1698760720031" duration="5387000" />
       <workItem from="1700015752571" duration="2356000" />
       <workItem from="1700436574447" duration="601000" />
-      <workItem from="1700622618863" duration="311000" />
+      <workItem from="1700622618863" duration="2353000" />
+      <workItem from="1700641020549" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="Selectクラスを作成した">
       <option name="closed" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700017956286</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Insertクラスを作成した">
+      <option name="closed" value="true" />
+      <created>1700623242771</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700623242771</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
